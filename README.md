@@ -7,4 +7,3 @@
 * Computer Vision with OpenCV to detect objects (Java)
 
 ***
-![Jiaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaiming724&count_private=true&theme=radical)
